@@ -19,7 +19,6 @@ for(i=0;i<n;i++)
 if(b==a[i])
 {
 System.out.println("Element found");
-break;
 }
 else
 System.out.println("Element not found");
