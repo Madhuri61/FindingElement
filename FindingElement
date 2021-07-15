@@ -22,7 +22,6 @@ System.out.println("Element found");
 }
 else
 System.out.println("Element not found");
-break;
 }
 }
 }
